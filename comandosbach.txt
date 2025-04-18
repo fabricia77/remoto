@@ -1,6 +1,7 @@
 ls
 pwd
 which 
-cat 
+ 
 mkdir
 rm deletar aquivo
+Estava fanzedom
