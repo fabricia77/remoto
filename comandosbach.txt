@@ -1,7 +1,0 @@
-ls
-pwd
-which 
- 
-mkdir
-rm deletar aquivo
-Estava fanzedom
